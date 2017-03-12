@@ -1,0 +1,13 @@
+{
+  "name": "zacksleo/easyui-metronic-theme",
+  "description": "Easyui Metronic Theme Asset",
+  "type": "asset",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zacksleo",
+      "email": "zacksleo@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
