@@ -907,7 +907,7 @@ hr{color:#eee}
 a.ez-no-underlink{text-decoration:none;}
 .ym-form fieldset legend{cursor:pointer;font-size:1em;font-size:100%;color:#666;font-weight:bold;margin-left:10px;}
 .ym-form fieldset{padding:2px;}
-.ym-form fieldset legend a img{background-image:url(../../yaml/images/collapse-tool.png);background-position:0 0;}
+.ym-form fieldset legend a img{background-image:url(images/collapse-tool.png);background-position:0 0;}
 .ym-form fieldset.collapsed a img{filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=70);opacity:0.7;background-position:-15px 0;}
 .ym-form,UNUSED.ym-form fieldset{overflow:hidden;}
 .ym-form fieldset.collapsed{padding-bottom:0 !important;border-width:1px 1px 0 1px !important;border-left-color:transparent !important;border-right-color:transparent !important;}
